@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.ticker{
+margin: 10vb;
+}
+
+.chart{
+  display: flex;
+  justify-content: center;
+}
